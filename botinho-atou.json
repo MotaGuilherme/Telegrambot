@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+ "project_id": "const projectId = process.env.GCP_PROJECT || process.env.GCLOUD_PROJECT",
+  "private_key_id": "c5fbd09b187d1a4e53232e0c4ab9e22f8a06065e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC7wtJh//un4gTK\nnTwobunXqknxUXls8dRWsGiUnfAxTqXkkd5OYRiBg97WAIYDRCLkOB5n6PE28oKH\nLZfciGF9UREMRIHz1G8Zq3X/tXqddYBIAnTLYKZBw1ZoyF3uFu65XQA5SqRWyaVK\nibv0iS7NFMvuxrZSLWJwzOibryZ0q6GtuKUXvRNImKaFj8CH/0T+S6SWUFUdY1kf\ni0AN3Ls8sGQvSovJw6dWJTywUt9T5r621SH3mS/IqL3GrXt0B1oP/TGx6fEk3E4/\n79at+NwoYNJjnJ3t40aVhB6I5urwC0taP+hJ6w+8bAe2uxuSJWxjqJSbAO0vKmPw\n8JeJg0TPAgMBAAECggEAWz9jccfvG5gOXw9J4JaCY1J5K+M+ARGHcXe641rcE4JW\nwb2YDXxHZg3ZuiO3/RdcY4/YSwRcUalKgPpJ3p2Sz02Z3N3gT8iSE6YNqu8dvy8O\n4C/9Zac7NSOCt1qEt4QCkSfex3j8Y8cMYqyMINuYWIc+UnTUvxwaRpp2gs58gF7g\nnWu/9us8/m2WYYEVB4Hn9k3A5uFeUl21rF9x9WTMYLAqPWqds5dqQ9GrPYuHt0I8\n09riRFSSPSSFb5jR8340jC9lnwwsm6MVHCFzqVn4YEz1fj7YLIQM8w4KzNHYPdex\n/vtVwa+mMTaVc87aoOmePAVG8lbxYmOWIHryU4HkkQKBgQDxF65LVueRF4d+RwYK\n5CcLxQ1yAert3Rxb/pZFyFwyPAfIl0o4C3SsvJ77Ti2RJW+IQu+m3f9eNoTodfuy\nV99ycTggcCzIQf99DGuMdJqYT7o3Sx5ZBaS0F7AxrQR0q29Z3vt4+12jY6CDEsST\nmysLNE1gmTl+XiqFACU4s+NknwKBgQDHXvE/3LUd7kjGvKnVFEQQHdkwWiTbr0+u\nbQmuKrbL0zA8/f+Fu5tb+c5IG/tIG0u/YkzKLZ7MKOIC1RQ8eVth7qyNvRrQn+Ti\nmfM0izAfR7fu2AsdwZW12E4wfXenuR0UdepeijGVkuf1ZEHHCxUnAZnZnOW/6khb\nCzKwnpaB0QKBgQCxGtNHtvRvKli3U9dFguqIA95npK7+w1IE5lVft9q6cEzLdw/n\nccro5broIzroCBcRgxJng2cHv4cM+TbHgTO87xzq/1x2U70qEEilKjcyska6Pa1y\neenO/iPJqi6+wf0PiPU0n3re/t23y76qK++H0IkS8BxDD0uu3jd5mvPtQwKBgQCg\n6mCNyvXkUo8q2Nu6v8CvwWerPxbAuZ72ictmZ9Nib/JfSCMVLXcXpWh5ixwl9uIM\ndqrEBE5HOjgxUQokRU8cnCdpv1gFSwjSXK+PmUgd9yTeAkH2omjTfOKfAKWzGhX+\nja284I1kzE2sIl90590KvqAOpDRL0izUTxV6uIWCAQKBgQCcfT0q24C/J8/+mfGw\nFNVWCJVqzZrnr9i+0OgvQ95UdZLfKcLYJIylXmOHs1hf7hH3Thqg2QdguogOAldo\nCE14h6IiQ/EsrZqpipHv/MeqOnmY38hSy9WOS/fbjAxcwuo2V9Ezl0IKRbEZrIVy\nJso4FgpBPU/2dAHMTy17XXZgDQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "botinho@botinho-atou.iam.gserviceaccount.com",
+  "client_id": "109564519185396556646",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/botinho%40botinho-atou.iam.gserviceaccount.com"
+}
